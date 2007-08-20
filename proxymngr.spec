@@ -40,6 +40,6 @@ rm -rf %{buildroot}
 %defattr(-,root,root)
 %{_bindir}/proxymngr
 %{_libdir}/X11/proxymngr/pmconfig
-%{_mandir}/man1/proxymngr.1x.bz2
+%{_mandir}/man1/proxymngr.*
 
 
