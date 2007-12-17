@@ -5,7 +5,6 @@ Summary: Proxy manager service
 Group: Development/X11
 Source: http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
 License: MIT
-BuildRoot: %{_tmppath}/%{name}-root
 
 BuildRequires: lbxproxy >= 1.0.1
 BuildRequires: libice-devel >= 1.0.0
