@@ -1,6 +1,6 @@
 Name: proxymngr
 Version: 1.0.1
-Release: %mkrel 6
+Release: %mkrel 7
 Summary: Proxy manager service
 Group: Development/X11
 Source: http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
