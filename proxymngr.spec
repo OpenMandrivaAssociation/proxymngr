@@ -1,11 +1,10 @@
 Name: proxymngr
 Version: 1.0.2
-Release: %mkrel 3
+Release: 4
 Summary: Proxy manager service
 Group: Development/X11
 Source: http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
 License: MIT
-BuildRoot: %{_tmppath}/%{name}-root
 
 BuildRequires: lbxproxy >= 1.0.1
 BuildRequires: pkgconfig(ice) >= 1.0.0
