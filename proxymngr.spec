@@ -34,8 +34,8 @@ strives to reuse existing proxies whenever possible.
 
 %files
 %{_bindir}/proxymngr
-%{_libdir}/X11/proxymngr/pmconfig
+# %{_libdir}/X11/proxymngr/pmconfig
 %{_mandir}/man1/proxymngr.*
-%{_sysconfdir}/X11/proxymngr/pmconfig
+# %{_sysconfdir}/X11/proxymngr/pmconfig
 
 
