@@ -1,2 +1,4 @@
+removed_sources:
+  proxymngr-1.0.2.tar.bz2: 1fe5a8d935c4b5f15c35fb37d9828465b599c2cd
 sources:
-  "proxymngr-1.0.2.tar.bz2": 1fe5a8d935c4b5f15c35fb37d9828465b599c2cd
+  proxymngr-1.0.3.tar.bz2: 50f517d017663faf45a99e46a032647060791ba0
