@@ -1,8 +1,7 @@
 Summary:	Proxy manager service
-
 Name:		proxymngr
-Version:	1.0.3
-Release:	4
+Version:	1.0.4
+Release:	1
 Group:		Development/X11
 License:	MIT
 Source0:	http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
@@ -23,7 +22,7 @@ strives to reuse existing proxies whenever possible.
 %setup -q
 
 %build
-%configure2_5x \
+%configure \
 	--x-includes=%{_includedir}\
 	--x-libraries=%{_libdir}
 
