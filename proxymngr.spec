@@ -1,7 +1,7 @@
 Summary:	Proxy manager service
 Name:		proxymngr
 Version:	1.0.4
-Release:	2
+Release:	3
 Group:		Development/X11
 License:	MIT
 Source0:	http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
