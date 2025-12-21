@@ -5,6 +5,11 @@ Release:	7
 Group:		Development/X11
 License:	MIT
 Source0:	http://xorg.freedesktop.org/releases/individual/app/%{name}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	lbxproxy >= 1.0.1
 BuildRequires:	pkgconfig(ice) >= 1.0.0
 BuildRequires:	pkgconfig(x11) >= 1.0.0
